@@ -1,0 +1,9 @@
+* cl-tqdm
+
+Simple and Fast ProgressBar Library for Common Lisp. (Reimplementation of cl-cram)
+
+|---------+-----------------------------------------------------------------------|
+| source  | git:https://github.com/hikettei/cl-tqdm/archive/refs/tags/v1.0.tar.gz |
+| version | 1.0                                                                   |
+| systems | cl-tqdm                                                               |
+|---------+-----------------------------------------------------------------------|
